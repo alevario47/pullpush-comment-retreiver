@@ -38,7 +38,7 @@ Example:
     Please enter the command you want to run: start
     Transfer in progress...
     ... (scraping progress) ...
-    Transfer Successful :3
+    Transfer Successful
 ```
 
 ## Output
