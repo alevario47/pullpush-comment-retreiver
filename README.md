@@ -1,6 +1,6 @@
 # Reddit Comment Scraper
 
-This Python script scrapes comments from Reddit using the Pullpush.io API. It allows you to search for comments based on various criteria, including keywords, author, subreddit, and date range.  The scraped data is saved in JSON format.
+This Python script scrapes comments from Reddit using the Pullpush.io API. It allows you to search for comments based on various criteria, including keywords, author, subreddit, and date range.  The scraped data is saved in JSON format. I likely will not keep adding to this project, since it was meant as a one-time thing for a research project I was asked to help on.
 
 ## Usage
 
